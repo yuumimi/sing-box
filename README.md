@@ -1,6 +1,6 @@
 # sing-box
 
-The universal proxy platform.
+The universal proxy platform..
 
 ## Documentation
 
